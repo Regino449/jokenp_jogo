@@ -1,2 +1,2 @@
-# jokenp-_jogo
+# jokenpô-_jogo
 desevolvimento  de um jogo baseado em jokenpô  misturado com Uno
